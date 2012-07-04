@@ -2,6 +2,8 @@ Arduino-Codes
 =============
 //banging of led's
 //LEDs r connctd from pin 2 to 9
+
+
 void setup()
 {
   for(int i=2;i<=9;i++)
