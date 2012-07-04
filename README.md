@@ -1,8 +1,7 @@
-Arduino-Codes
-=============
 //banging of led's
 //LEDs r connctd from pin 2 to 9
 
+$-------------------------------
 
 void setup()
 {
@@ -45,3 +44,4 @@ void loop()
     
   
 }
+
